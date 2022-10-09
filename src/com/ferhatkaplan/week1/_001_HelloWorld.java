@@ -1,4 +1,4 @@
-package com.ferhatkaplan;
+package com.ferhatkaplan.week1;
 
 public class _001_HelloWorld {
 

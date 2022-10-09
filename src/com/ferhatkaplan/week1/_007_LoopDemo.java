@@ -1,4 +1,4 @@
-package com.ferhatkaplan;
+package com.ferhatkaplan.week1;
 //i+=2 ikişerli sayar.
 //i++ tek tek sayar.
 
